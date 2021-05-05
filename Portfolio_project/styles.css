@@ -113,6 +113,12 @@ form {
     color: rgb(245, 245, 245);
 }
 
+.top_navbar a:hover,
+.small_contact-links__wrapper a:hover,
+.posts__wrapper>div>a:hover {
+    color: rgb(90, 70, 43);
+}
+
 .links__wrapper {
     font-family: 'Jura', sans-serif;
     width: 70%;
