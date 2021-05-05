@@ -182,7 +182,7 @@ form {
     position: relative;
     float: left;
     left: -20px;
-    top: 20px;
+    top: 100px;
 }
 
 .hi_content p {
@@ -225,7 +225,7 @@ form {
     height: 130px;
     position: relative;
     float: left;
-    top: 20px;
+    top: 100px;
     left: 120px;
 
 }
@@ -685,14 +685,14 @@ p {
 #rings-02 {
     width: 250px;
     color: rgb(218, 156, 128);
-    top: 160px;
+    top: 400px;
     left: 310px;   
 }
 
 #rings-03 {
-    width: 300px;
-    bottom: -60px;
-    left: 750px
+    width: 400px;
+    top: 450px;
+    left: 550px
 }
 
 #rings-04 {
@@ -730,7 +730,7 @@ p {
 #rings-09 {
     width: 350px;
     z-index: 1;
-    top: -150px;
+    top: -50px;
     right: 250px;
 }
 
